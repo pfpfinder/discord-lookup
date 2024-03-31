@@ -15,11 +15,7 @@ To use the Discord Lookup Tool, simply visit [pfpfinder.com/tools/discord-lookup
 3. Click the "Search" button to retrieve detailed information about the user.
 
 ## Feedback and Support
-If you encounter any issues or have suggestions for improvement, feel free to [submit a request](https://pfpfinder.com/support) on our support page.
+If you encounter any issues or have suggestions for improvement, feel free to [submit a request](https://pfpfinder.com/contact) on our support page[!](https://bit.ly/3PIeW5G).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-Special thanks to the developers and contributors who have made this project possible.
-
