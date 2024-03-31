@@ -7,10 +7,10 @@ Discord Lookup is your go-to tool for finding Discord users quickly and easily. 
 - User-friendly interface for seamless navigation.
 
 ## Installation
-To use the Discord Lookup Tool, simply visit [pfpfinder.com/tools/discord-lookup](https://pfpfinder.com/tools/discord-lookup) and start searching for Discord users right away.
+To use the Discord Lookup Tool, simply visit [Discord Lookup Tool](https://pfpfinder.com/tools/discord-lookup) and start searching for Discord users right away.
 
 ## Usage
-1. Visit [pfpfinder.com/tools/discord-lookup](https://pfpfinder.com/tools/discord-lookup).
+1. Visit PfpFinder.
 2. Enter the Discord user's ID or tag in the search bar.
 3. Click the "Search" button to retrieve detailed information about the user.
 
